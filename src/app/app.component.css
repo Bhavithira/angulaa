@@ -1,0 +1,10 @@
+.menu {
+    text-decoration: none;
+    color: #ef5350;
+    margin: 20px;
+}
+
+.active {
+    color: #bf360c;
+    text-decoration: underline;
+}
