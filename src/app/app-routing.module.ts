@@ -9,8 +9,8 @@ import { DogsComponent } from './dogs/dogs.component';
  * dogs => DogsComponent
  */
 const routes: Routes = [
-  {  },
-  {  }
+  {path: '/cats',component:CatsComponent  },
+  {path: '/dogs',component:DogsComponent }
 ];
 
 @NgModule({
